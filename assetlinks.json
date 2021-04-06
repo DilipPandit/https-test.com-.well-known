@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.intermiles.app",
+    "sha256_cert_fingerprints":
+    ["F9:0F:97:A5:B7:08:96:10:8F:76:E3:AB:67:10:77:DB:02:3B:19:E3:0C:F7:02:AD:E2:DE:A1:87:74:FE:45:DC"]
+  }
+}]
